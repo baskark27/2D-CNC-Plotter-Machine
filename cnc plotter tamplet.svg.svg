@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.73228"
+   height="141.73228"
+   id="svg2998"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 141.73228 141.73228"
+   sodipodi:docname="cnc tamplet.svg">
+  <defs
+     id="defs3000" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="120.38008"
+     inkscape:cy="117.59972"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3003">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-910.6299)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.06863165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.410985,853.51153 126.490415,0 0,126.49042 -126.490415,0 z"
+       id="rect3006"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="scale(0.85928157,1.1637629)"
+       style="font-style:normal;font-weight:normal;font-size:47.22917938px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3009">
+      <path
+         d="m 149.04638,780.92212 0,-14.29646 6.14579,0 2.58573,2.97921 2.59509,-2.97921 6.13642,0 0,14.29646 -6.33316,0 0,-7.1576 -2.39835,2.76373 -2.39836,-2.76373 0,7.1576 -6.33316,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3816" />
+      <path
+         d="m 169.32936,780.92212 0,-14.29646 6.32379,0 0,14.29646 -6.32379,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3818" />
+      <path
+         d="m 92.375826,804.90569 0,-14.29646 6.323793,0 0,14.29646 -6.323793,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3820" />
+      <path
+         d="m 115.71296,805.01811 -4.79671,0 -3.07289,-4.50629 0,4.39387 -6.3238,0 0,-14.29646 4.52503,0 3.33521,4.83419 0,-4.83419 6.33316,0 0,14.40888 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3822" />
+      <path
+         d="m 132.68883,805.01811 -4.79671,0 -3.07289,-4.50629 0,4.39387 -6.3238,0 0,-14.29646 4.52503,0 3.33521,4.83419 0,-4.83419 6.33316,0 0,14.40888 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3824" />
+      <path
+         d="m 142.25415,805.1399 q -3.06352,0 -5.19956,-2.1454 -2.12667,-2.15478 -2.12667,-5.24641 0,-3.08226 2.12667,-5.2183 2.13604,-2.1454 5.19956,-2.1454 3.0729,0 5.19957,2.1454 2.13603,2.13604 2.13603,5.2183 0,3.09163 -2.13603,5.24641 -2.12667,2.1454 -5.19957,2.1454 z m 0,-9.27489 q -0.60895,0 -1.0118,0.43095 -0.40285,0.42159 -0.40285,1.06802 0,0.64643 0.40285,1.07739 0.40285,0.42158 1.0118,0.42158 0.61833,0 1.02118,-0.42158 0.40285,-0.43096 0.40285,-1.07739 0,-0.64643 -0.40285,-1.06802 -0.40285,-0.43095 -1.02118,-0.43095 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3826" />
+      <path
+         d="m 165.52571,790.60923 -4.85292,14.29646 -6.13642,0 -4.8623,-14.29646 6.31443,0 1.61139,4.81545 1.6114,-4.81545 6.31442,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3828" />
+      <path
+         d="m 170.13505,804.90569 -6.33316,0 4.96535,-14.29646 9.02194,0 4.96535,14.29646 -6.32379,0 -0.82444,-2.4171 -4.64681,0 -0.82444,2.4171 z m 1.97677,-5.78979 2.34215,0 -1.17107,-3.55069 -1.17108,3.55069 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3830" />
+      <path
+         d="m 181.59283,796.94239 0,-6.33316 12.70379,0 0,6.33316 -3.18531,0 0,7.9633 -6.33316,0 0,-7.9633 -3.18532,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3832" />
+      <path
+         d="m 196.10476,804.90569 0,-14.29646 6.32379,0 0,14.29646 -6.32379,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3834" />
+      <path
+         d="m 219.86349,790.60923 -4.85293,14.29646 -6.13642,0 -4.86229,-14.29646 6.31442,0 1.6114,4.81545 1.61139,-4.81545 6.31443,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3836" />
+      <path
+         d="m 233.3074,801.31752 0,3.58817 -11.86999,0 0,-14.29646 11.86999,0 0,3.58817 -5.5462,0 0,1.77066 3.85986,0 0,3.58817 -3.85986,0 0,1.76129 5.5462,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.18685532px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, ';text-align:center;text-anchor:middle"
+         id="path3838" />
+    </g>
+  </g>
+</svg>
